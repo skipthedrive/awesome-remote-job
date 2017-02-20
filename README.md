@@ -39,6 +39,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Acceptance of Telecommuting Project Management Grows](http://www.amanet.org/training/articles/Acceptance-of-Telecommuting-Project-Management-Grows.aspx?pcode=XCRP)
   1. [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](https://techcrunch.com/2014/05/19/teleport/)
   1. [Bosses without borders: Essential tools for managing remote workers](http://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
+  1. [Calculate how much time & money you could save by telecommuting](http://www.skipthedrive.com/how-much-money-can-you-save-by-telecommuting/)
   1. [Calculate how much you could save by telecommuting to work](http://meetchrisbennett.com/telework/final.html)
   1. [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams)
   1. [Death of the office and rise of the telecommuter](http://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
